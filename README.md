@@ -2,7 +2,7 @@
 
 Creating a Student Database using Single Linked List Concept asking user for following options.
 
-*** STUDENT RECORD MENU ***
+** STUDENT RECORD MENU **
 ```
  a/A: Add New record
  m/M: Modify a Record
